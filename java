@@ -1,1 +1,1 @@
-pasta1
+JavaPlugin
